@@ -155,3 +155,5 @@ replace github.com/sagernet/sing-box => github.com/Throneproj/sing-box v1.11.16-
 replace github.com/sagernet/wireguard-go => github.com/throneproj/wireguard-go v0.0.0-20251117142642-c1bcbc4da297
 
 replace github.com/chai2010/protorpc => ../protorpc
+
+replace github.com/sagernet/sing-tun => github.com/unn4medproger/sing-tun v0.8.0-beta.11-chainpriofix2
